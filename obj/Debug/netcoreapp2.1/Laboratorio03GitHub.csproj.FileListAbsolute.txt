@@ -1,0 +1,11 @@
+C:\workspace\Laboratorio03GitHub\bin\Debug\netcoreapp2.1\Laboratorio03GitHub.deps.json
+C:\workspace\Laboratorio03GitHub\bin\Debug\netcoreapp2.1\Laboratorio03GitHub.runtimeconfig.json
+C:\workspace\Laboratorio03GitHub\bin\Debug\netcoreapp2.1\Laboratorio03GitHub.runtimeconfig.dev.json
+C:\workspace\Laboratorio03GitHub\bin\Debug\netcoreapp2.1\Laboratorio03GitHub.dll
+C:\workspace\Laboratorio03GitHub\bin\Debug\netcoreapp2.1\Laboratorio03GitHub.pdb
+C:\workspace\Laboratorio03GitHub\obj\Debug\netcoreapp2.1\Laboratorio03GitHub.csprojAssemblyReference.cache
+C:\workspace\Laboratorio03GitHub\obj\Debug\netcoreapp2.1\Laboratorio03GitHub.csproj.CoreCompileInputs.cache
+C:\workspace\Laboratorio03GitHub\obj\Debug\netcoreapp2.1\Laboratorio03GitHub.AssemblyInfoInputs.cache
+C:\workspace\Laboratorio03GitHub\obj\Debug\netcoreapp2.1\Laboratorio03GitHub.AssemblyInfo.cs
+C:\workspace\Laboratorio03GitHub\obj\Debug\netcoreapp2.1\Laboratorio03GitHub.dll
+C:\workspace\Laboratorio03GitHub\obj\Debug\netcoreapp2.1\Laboratorio03GitHub.pdb
